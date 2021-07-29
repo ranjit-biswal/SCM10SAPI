@@ -21,7 +21,7 @@ public class ExcelUtil {
 
 	public ArrayList<String> getData(String testcase, String sheetname) throws IOException {
 		ArrayList<String> ar = new ArrayList<String>();
-		
+		//Put clear paths
 		FileInputStream fis = new FileInputStream(BaseSetUp.testDataPath + "\\TestData.xlsx");
 		@SuppressWarnings("resource")
 		XSSFWorkbook workbook = new XSSFWorkbook(fis);
