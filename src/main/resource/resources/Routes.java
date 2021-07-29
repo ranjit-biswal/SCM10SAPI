@@ -1,6 +1,7 @@
 package resources;
 //enum is special class in java which has collection of constants or  methods
 public enum Routes {
+	//10s 
 	AddOneTimePaymentCC("/SCM_7_5_2-BaseChasePayment/api/Payment/Card"),
 	AddOneTimePaymentBank("/SCM_7_5_2-BaseChasePayment/api/Payment/Bank"),
 	LoginApi("/SCM_7_5_2-API/UserLogin/ValidateUserLogin"),

@@ -14,7 +14,7 @@ import java.util.List;
 import java.util.Map;
 
 public class DataBaseUtil {
-
+//This is db URLS
 	private static String connectionUrl = Utils.getPropValue("databaseURL");
 	private static String dbUsername = Utils.getPropValue("dbusername");
 	private static String dbPassword = Utils.getPropValue("dbpassword");
