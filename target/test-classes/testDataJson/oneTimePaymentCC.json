@@ -1,0 +1,26 @@
+{
+  "ccAccountNum": "4112344112344113",
+  "ccExp": "202010",
+  "cardCVV": "1234",
+  "paymentMethodType": "1",
+  "amount":"35.00",
+  "serviceAccountNumber": "411003717203",
+  "CustomerName": "Amiee Pieciak",
+   "FirstName": "John@$#%&*",
+  "LastName": "Walker@$#%&*!",
+  "addressLine1": "420 Old  @&*()!#$",
+  "addressLine2": "New Town @&*!#$",
+  "city": "San José",
+  "state": "CA",
+  "zip": "90001",
+  "countryCode": "US",
+  "email": "souradeep12345@mailinator.com",
+  "phone": "9999999998",
+   "AccounType":"Residential",
+  "AccountUtilityID":"1",
+  "ChannelType":"Mobile",
+  "UserId":"1510"
+}
+
+
+

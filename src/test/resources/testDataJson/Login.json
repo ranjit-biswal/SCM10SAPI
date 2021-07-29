@@ -1,0 +1,21 @@
+{
+	"UserId": "AutoUser17371",
+	"password": "Demo@12345",
+	"UtilityAccountNumber": "411002248606",
+	"LanguageCode": "EN",
+	"ExternalLoginId": "",
+	"LoginMode": 1,
+	"IsCSRUser": 0,
+	"PushToken": "",
+	"Deviceid": "",
+	"UpdatedDate": "01-01-0001 12:00:00 AM",
+	"LUpdHideShow": "",
+	"TimeOffSet": 0,
+	"deviceType": "Web",
+	"OperatingSystem": "WinNT",
+	"Browser": "Firefox",
+	"Country": "US",
+	"IPAddress":"127.0.0.1"
+}
+
+

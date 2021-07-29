@@ -1,0 +1,20 @@
+{
+  "UserID": 1510,
+  "AccountNumber": 5767,
+  "PayTypeId": 1,
+  "IsBankAccount": 0,
+  "Mode": 3,
+  "CardName": "Marsh & Parsons@$#*",
+  "CardType": "Visa",
+  "CardNumber": "4012888888881881",
+  "ExpiryMonth": 10,
+  "ExpiryYear": 23,
+  "SecurityCode": "123",
+  "PaymentMode": 2,
+  "LanguageCode": "EN",
+  "UtilityAccountNumber":"411003717203",
+  "PaymentToken": "",
+  "CustomerRefNum": "",
+  "ChannelType": 0,
+  "IP": ""
+}

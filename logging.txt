@@ -1,0 +1,147 @@
+Request method:	POST
+Request URI:	https://qa.smartcmobile.net/SCM_10.0_S-API/UserLogin/GetId
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Cache-Control: no-cache
+Pragma: no-cache
+Content-Length: 346
+Content-Type: application/json; charset=utf-8
+Expires: -1
+Server: Microsoft-IIS/10.0
+X-AspNet-Version: 4.0.30319
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET,PUT,POST,DELETE,OPTIONS
+Access-Control-Allow-Headers: Content-Type
+Date: Thu, 22 Jul 2021 05:06:00 GMT
+
+{
+    "version": "7.5.2",
+    "status_code": 200,
+    "responsestatus": 1,
+    "request_time": "2021-07-22 05:06:00 AM",
+    "response_time": "2021-07-22 05:06:00 AM",
+    "result": {
+        "Status": 1,
+        "Message": "Successful!!",
+        "Data": {
+            "tokenId": "9kynqLptXFn1kb2iDbFf+igdhaqGw18zyfHqBkWQYfc=",
+            "key": "3ee87728-871c-44cd-b195-94e04bd88694",
+            "saltValue": "fe1b1a0f-ff89-477e-81a4-0c9e26f9e405"
+        }
+    }
+}
+Request method:	POST
+Request URI:	https://qa.smartcmobile.net/SCM_10.0_S-API/ContactUs/SetConnectMeRequest
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+{
+    "Reason": "Programs",
+    "Subject": "Enroll Program Auto",
+    "AccountNumber": "6473",
+    "MessageBody": "Connect me Request for programs",
+    "Latitude": "",
+    "Longitude": "",
+    "TopicId": "47",
+    "CustomerName": "Nikhil Jain",
+    "UserSignature": "",
+    "PromotionId": 0,
+    "IsDrMode": 0,
+    "AttachmentName": null,
+    "IsPreLogin": false,
+    "UtilityAccountNumber": "411002248606",
+    "FromEMail": "Nikhil.Jain@smartenergywater.in",
+    "LanguageCode": "EN",
+    "Offset": 330,
+    "ResponseXML": "<TemplateResponse><Template><TemplateTypeID> 255</TemplateTypeID><IsParent>1</IsParent><ResponseDetail><Response><TCollectionID>1100</TCollectionID><TCollectionValue>ProgramAttachment_2021022007555143a5aff0f8a44baf8e4bab954228d2a8.png</TCollectionValue></Response><Response><TCollectionID>1096</TCollectionID><TCollectionValue>Nikhil%20Jain</TCollectionValue></Response><Response><TCollectionID>2588</TCollectionID><TCollectionValue>411002248606</TCollectionValue></Response><Response><TCollectionID>2589</TCollectionID><TCollectionValue>Nikhil.Jain%40smartenergywater.in</TCollectionValue></Response><Response><TCollectionID>1099</TCollectionID><TCollectionValue>Enroll%20Program%20Auto</TCollectionValue></Response><Response><TCollectionID>1101</TCollectionID><TCollectionValue>Connect%20me%20Request%20for%20programs</TCollectionValue></Response></ResponseDetail></Template></TemplateResponse>",
+    "TemplateTypeId": "261",
+    "AttachmentXML": null,
+    "UserID": "3301",
+    "IsBillingQuery": 0,
+    "IsUpdate": false,
+    "SaveId": null,
+    "isEmailFromControl": false
+}
+HTTP/1.1 401 Unauthorized
+Cache-Control: no-cache
+Pragma: no-cache
+Content-Length: 247
+Content-Type: application/json; charset=utf-8
+Expires: -1
+Server: Microsoft-IIS/10.0
+X-AspNet-Version: 4.0.30319
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET,PUT,POST,DELETE,OPTIONS
+Access-Control-Allow-Headers: Content-Type
+Date: Thu, 22 Jul 2021 05:06:07 GMT
+
+{
+    "version": "7.5.2",
+    "status_code": 401,
+    "responsestatus": -1,
+    "request_time": "2021-07-22 05:06:07 AM",
+    "response_time": "2021-07-22 05:06:07 AM",
+    "error": {
+        "StatusCode": 401,
+        "StatusMessage": "UnAuthorized Access",
+        "Message": "UnAuthorized Access",
+        "status": -1
+    }
+}
+Request method:	POST
+Request URI:	https://qa.smartcmobile.net/SCM_10.0_S-API/UserLogin/GetId
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+Headers:		Accept=*/*
+				Content-Type=application/json; charset=UTF-8
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+Cache-Control: no-cache
+Pragma: no-cache
+Content-Length: 346
+Content-Type: application/json; charset=utf-8
+Expires: -1
+Server: Microsoft-IIS/10.0
+X-AspNet-Version: 4.0.30319
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET,PUT,POST,DELETE,OPTIONS
+Access-Control-Allow-Headers: Content-Type
+Date: Thu, 22 Jul 2021 05:06:08 GMT
+
+{
+    "version": "7.5.2",
+    "status_code": 200,
+    "responsestatus": 1,
+    "request_time": "2021-07-22 05:06:08 AM",
+    "response_time": "2021-07-22 05:06:08 AM",
+    "result": {
+        "Status": 1,
+        "Message": "Successful!!",
+        "Data": {
+            "tokenId": "bMxgBL23Rji33Iep9990DpPeGIC8gxqbtNHFQfuN4cE=",
+            "key": "35bd423e-42f3-4139-8450-21fd4daf118b",
+            "saltValue": "70ac1fb1-50af-4e49-87a6-40426ec598cf"
+        }
+    }
+}
